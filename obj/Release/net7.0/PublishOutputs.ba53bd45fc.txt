@@ -1,0 +1,7 @@
+G:\Project\Main Project\Demo-Test\obj\Release\net7.0\PubTmp\Out\Demo-Test.exe
+G:\Project\Main Project\Demo-Test\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+G:\Project\Main Project\Demo-Test\obj\Release\net7.0\PubTmp\Out\appsettings.json
+G:\Project\Main Project\Demo-Test\obj\Release\net7.0\PubTmp\Out\Demo-Test.dll
+G:\Project\Main Project\Demo-Test\obj\Release\net7.0\PubTmp\Out\Demo-Test.deps.json
+G:\Project\Main Project\Demo-Test\obj\Release\net7.0\PubTmp\Out\Demo-Test.runtimeconfig.json
+G:\Project\Main Project\Demo-Test\obj\Release\net7.0\PubTmp\Out\Demo-Test.pdb
