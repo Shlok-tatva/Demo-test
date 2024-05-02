@@ -29,3 +29,34 @@ G:\Project\Main Project\Demo-Test\obj\Debug\net7.0\refint\Demo-Test.dll
 G:\Project\Main Project\Demo-Test\obj\Debug\net7.0\Demo-Test.pdb
 G:\Project\Main Project\Demo-Test\obj\Debug\net7.0\Demo-Test.genruntimeconfig.cache
 G:\Project\Main Project\Demo-Test\obj\Debug\net7.0\ref\Demo-Test.dll
+G:\AzureDemo\Demo-Test\bin\Debug\net7.0\appsettings.Development.json
+G:\AzureDemo\Demo-Test\bin\Debug\net7.0\appsettings.json
+G:\AzureDemo\Demo-Test\bin\Debug\net7.0\Demo-Test.staticwebassets.runtime.json
+G:\AzureDemo\Demo-Test\bin\Debug\net7.0\Demo-Test.exe
+G:\AzureDemo\Demo-Test\bin\Debug\net7.0\Demo-Test.deps.json
+G:\AzureDemo\Demo-Test\bin\Debug\net7.0\Demo-Test.runtimeconfig.json
+G:\AzureDemo\Demo-Test\bin\Debug\net7.0\Demo-Test.dll
+G:\AzureDemo\Demo-Test\bin\Debug\net7.0\Demo-Test.pdb
+G:\AzureDemo\Demo-Test\obj\Debug\net7.0\Demo-Test.csproj.AssemblyReference.cache
+G:\AzureDemo\Demo-Test\obj\Debug\net7.0\Demo-Test.GeneratedMSBuildEditorConfig.editorconfig
+G:\AzureDemo\Demo-Test\obj\Debug\net7.0\Demo-Test.AssemblyInfoInputs.cache
+G:\AzureDemo\Demo-Test\obj\Debug\net7.0\Demo-Test.AssemblyInfo.cs
+G:\AzureDemo\Demo-Test\obj\Debug\net7.0\Demo-Test.csproj.CoreCompileInputs.cache
+G:\AzureDemo\Demo-Test\obj\Debug\net7.0\Demo-Test.MvcApplicationPartsAssemblyInfo.cache
+G:\AzureDemo\Demo-Test\obj\Debug\net7.0\Demo-Test.RazorAssemblyInfo.cache
+G:\AzureDemo\Demo-Test\obj\Debug\net7.0\Demo-Test.RazorAssemblyInfo.cs
+G:\AzureDemo\Demo-Test\obj\Debug\net7.0\staticwebassets\msbuild.Demo-Test.Microsoft.AspNetCore.StaticWebAssets.props
+G:\AzureDemo\Demo-Test\obj\Debug\net7.0\staticwebassets\msbuild.build.Demo-Test.props
+G:\AzureDemo\Demo-Test\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Demo-Test.props
+G:\AzureDemo\Demo-Test\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Demo-Test.props
+G:\AzureDemo\Demo-Test\obj\Debug\net7.0\staticwebassets.pack.json
+G:\AzureDemo\Demo-Test\obj\Debug\net7.0\staticwebassets.build.json
+G:\AzureDemo\Demo-Test\obj\Debug\net7.0\staticwebassets.development.json
+G:\AzureDemo\Demo-Test\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\AzureDemo\Demo-Test\obj\Debug\net7.0\scopedcss\bundle\Demo-Test.styles.css
+G:\AzureDemo\Demo-Test\obj\Debug\net7.0\scopedcss\projectbundle\Demo-Test.bundle.scp.css
+G:\AzureDemo\Demo-Test\obj\Debug\net7.0\Demo-Test.dll
+G:\AzureDemo\Demo-Test\obj\Debug\net7.0\refint\Demo-Test.dll
+G:\AzureDemo\Demo-Test\obj\Debug\net7.0\Demo-Test.pdb
+G:\AzureDemo\Demo-Test\obj\Debug\net7.0\Demo-Test.genruntimeconfig.cache
+G:\AzureDemo\Demo-Test\obj\Debug\net7.0\ref\Demo-Test.dll
